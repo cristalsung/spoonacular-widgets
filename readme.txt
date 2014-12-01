@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== spoonacular recipe visualizer ===
 Contributors: dsky
 Donate link: 
 Tags: recipes, widgets, visualization, cooking, plugin, food, foodie
