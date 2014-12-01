@@ -12,12 +12,13 @@ Make your recipe blog look awesome with pretty and insightful visualizations.
 
 == Description ==
 
-This plugin allows recipe authors to enhance their recipes with three widgets:
-1. An ingredient visualizer to prettify ingredient lists.
-2. A price analyzer that shows how much the recipe approximately costs.
-3. A nutrition visualizer that show the macro, and micro nutrients of the recipe's ingredients.
+This plugin allows recipe authors to enhance their recipes with three widgets: 
 
-If you find yourself in need of some help, have a look at [this blog post](https://spoonacular.com/blog/spoonacular-widgets-for-wordpress).
+1. An ingredient visualizer to make more attractive ingredient lists. 
+2. A price analyzer that shows how much the recipe approximately costs. 
+3. A nutrition visualizer that automatically calculates the recipe's nutritional information and displays the macro- and micronutrients.
+
+If you find yourself in need of some help, have a look at the [spoonacular recipe widgets for word press](https://spoonacular.com/blog/spoonacular-widgets-for-wordpress) post.
 
 == Installation ==
 
@@ -31,7 +32,7 @@ This section describes how to install the plugin and get it working.
 
 = Where can I read more detailed instructions? =
 
-Take a look at [this blog post](https://spoonacular.com/blog/spoonacular-widgets-for-wordpress).
+Take a look at the [spoonacular recipe widgets for word press](https://spoonacular.com/blog/spoonacular-widgets-for-wordpress) blog post.
 
 == Screenshots ==
 
