@@ -3,7 +3,7 @@ Contributors: dsky
 Donate link: 
 Tags: recipes, widgets, visualization, cooking, plugin, food, foodie
 Requires at least: 4.0.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ Make your recipe blog look awesome with pretty and insightful visualizations.
 
 == Description ==
 
-This plugin allows recipe authors to enhance their recipes with three widgets: 
+If you want to [start a food blog](https://spoonacular.com/blog/how-to-start-a-food-blog) this plugin is for you. The plugin allows recipe authors to enhance their recipes with three widgets: 
 
 1. An ingredient visualizer to make more attractive ingredient lists. 
 2. A price analyzer that shows how much the recipe approximately costs. 
